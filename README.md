@@ -1,36 +1,30 @@
-<!--
-**sdad0o/sdad0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<p align="left">I'm Sadad Albayyari, a passionate Full Stack Developer with expertise in building scalable and dynamic web applications.</p>
 
-<p align="left">My name is Sadad albayyari and I'm a Full stack developer.</p>
+---
 
-###
+<h2 align="left">About Me</h2>
 
-<h2 align="left">About me</h2>
+<p align="left">🎓 A Computer Information Systems graduate from Tafila Technical University.  
+🌱 Currently diving deeper into React.js and enhancing my knowledge of full-stack development.  
+💬 I’m always happy to share insights on web development, software engineering, or my favorite projects.  
+📫 Feel free to reach me at: <a href="mailto:sdad.loui.bayyari@gmail.com">sdad.loui.bayyari@gmail.com</a>.</p>
 
-###
+---
 
-<p align="left">🌱 I’m learning React.js .<br>💬 Ask me about my Expertise.<br>📫 Reach me at : sdad.loui.bayyari@gmail.com</p>
+<h2 align="left">Skills</h2>
 
-###
+<ul align="left">
+  <li>Frontend: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, React.js</li>
+  <li>Backend: Node.js, Express.js, PHP, Python, Django, Laravel</li>
+  <li>Databases: PostgreSQL, MySQL, SQL Server</li>
+  <li>Tools: Git, GitHub, Figma, Postman, Trello</li>
+</ul>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+<h2 align="left">I Code With</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -64,4 +58,13 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+---
+
+<h2 align="left">Connect with Me</h2>
+
+<p align="left">
+  <a href="https://linkedin.com/in/sdad0o" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/sdad0o" target="_blank">GitHub</a>
+</p>
+
+---
