@@ -17,7 +17,7 @@
 
 <ul align="left">
   <li>Frontend: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS</li>
-  <li>Backend: Node.js, Express.js, PHP, Python, Django, Laravel</li>
+  <li>Backend: Node.js, Express.js, PHP, Python, Django, Laravel, .Net</li>
   <li>Databases: PostgreSQL, MySQL, SQL Server</li>
   <li>Tools: Git, GitHub, Figma, Postman, Trello,Jira</li>
 </ul>
