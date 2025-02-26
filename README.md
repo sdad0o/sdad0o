@@ -68,7 +68,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/sdad0o" target="_blank"><strong>LinkedIn</strong></a> • 
   <a href="https://github.com/sdad0o" target="_blank"><strong>GitHub</strong></a> •
-  <a href="https://sdad0o.github.io/portfolio/" target="_blank"><strong>Portfolio</strong></a>
+  <a href="https://sdad0o.github.io/portfolio/" target="_blank"><strong>Portfolio</strong></a> •
 </p>
 
 ---
