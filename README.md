@@ -1,17 +1,20 @@
 <h1 align="left">Hey there! 👋</h1>
 
-<p align="left">I'm <strong>Sadad Albayyari</strong>, a passionate <strong>Full Stack Developer</strong> dedicated to building scalable, dynamic web applications that deliver seamless user experiences.</p>
+<p align="left">
+  I'm <strong>Sadad Albayyari</strong>, a passionate <strong>Full Stack Developer</strong> with hands-on experience building scalable, dynamic web applications. I specialize in crafting seamless user experiences using modern frontend and backend technologies.
+</p>
 
 ---
 
 <h2 align="left">🚀 About Me</h2>
 
 <ul align="left">
-  <li>🎓 <strong>Computer Information Systems</strong> graduate from <em>Tafila Technical University</em>.</li>
-  <li>🌱 Currently deepening my expertise in <strong>React.js</strong> and exploring cutting-edge full-stack technologies.</li>
-  <li>💡 Passionate about web development, software engineering, and solving real-world problems with code.</li>
-  <li>💬 Always happy to discuss tech, best practices, and exciting projects.</li>
-  <li>📫 Reach out to me: <a href="mailto:sdad.loui.bayyari@gmail.com">sdad.loui.bayyari@gmail.com</a></li>
+  <li>🎓 Graduated with a Bachelor's in <strong>Computer Information Systems</strong> from <em>Tafila Technical University</em>.</li>
+  <li>👨‍💻 Completed internships at <strong>Apptrainers</strong> and <strong>Clever Mind POB</strong>, building full-stack web apps using <strong>Laravel</strong>, <strong>PHP</strong>, and <strong>MySQL</strong>.</li>
+  <li>💡 Strong foundation in software engineering principles, OOP, and MVC architecture.</li>
+  <li>🌱 Currently deepening my skills in <strong>React.js</strong> and modern full-stack technologies.</li>
+  <li>💬 Let’s talk tech, innovation, and problem-solving with code.</li>
+  <li>📫 Reach out: <a href="mailto:sdad.loui.bayyari@gmail.com">sdad.loui.bayyari@gmail.com</a></li>
 </ul>
 
 ---
@@ -20,9 +23,21 @@
 
 <ul align="left">
   <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS</li>
-  <li><strong>Backend:</strong> Node.js, Express.js, PHP, Python, Django, Laravel, .NET</li>
-  <li><strong>Databases:</strong> PostgreSQL, MySQL, SQL Server</li>
-  <li><strong>Tools & Platforms:</strong> Git, GitHub, Figma, Postman, Trello, Jira</li>
+  <li><strong>Backend:</strong> PHP, Laravel, Python, Django</li>
+  <li><strong>Databases:</strong> MySQL, SQL Server, PostgreSQL</li>
+  <li><strong>Tools & Platforms:</strong> Git, GitHub, Postman, Figma, Trello, Jira</li>
+  <li><strong>Development Practices:</strong> Agile, Scrum, MVC, OOP</li>
+</ul>
+
+---
+
+<h2 align="left">🧠 Projects</h2>
+
+<ul align="left">
+  <li>📝 <a href="https://github.com/sdad0o/Blogs">Blog App</a>: Modern Laravel blogging platform with user roles, comments, and email notifications.</li>
+  <li>💬 <a href="https://github.com/sdad0o/chatBot-for-law-consulting">Arabic Chatbot</a>: Flask-based chatbot for Arabic law consulting with real-time chat and responsive UI.</li>
+  <li>🖼️ <a href="https://github.com/sdad0o/Image-segmentation">Image Segmentation</a>: App that segments images by color, intensity, and texture using Python.</li>
+  <li>🛍️ <a href="https://github.com/sdad0o/Gender-Based-recommendations-system">Recommendation System</a>: ML-powered product recommendation tool based on gender using Django and Scikit-learn.</li>
 </ul>
 
 ---
@@ -50,8 +65,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
@@ -68,7 +81,5 @@
 <p align="left">
   <a href="https://linkedin.com/in/sdad0o" target="_blank"><strong>LinkedIn</strong></a> • 
   <a href="https://github.com/sdad0o" target="_blank"><strong>GitHub</strong></a> •
-  <a href="https://sdad0o.github.io/portfolio/" target="_blank"><strong>Portfolio</strong></a> •
+  <a href="https://sdad0o.github.io/portfolio/" target="_blank"><strong>Portfolio</strong></a>
 </p>
-
----
