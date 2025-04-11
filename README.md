@@ -12,7 +12,6 @@
   <li>🎓 Graduated with a Bachelor's in <strong>Computer Information Systems</strong> from <em>Tafila Technical University</em>.</li>
   <li>👨‍💻 Completed internships at <strong>Apptrainers</strong> and <strong>Clever Mind POB</strong>, building full-stack web apps using <strong>Laravel</strong>, <strong>PHP</strong>, and <strong>MySQL</strong>.</li>
   <li>💡 Strong foundation in software engineering principles, OOP, and MVC architecture.</li>
-  <li>🌱 Currently deepening my skills in <strong>React.js</strong> and modern full-stack technologies.</li>
   <li>💬 Let’s talk tech, innovation, and problem-solving with code.</li>
   <li>📫 Reach out: <a href="mailto:sdad.loui.bayyari@gmail.com">sdad.loui.bayyari@gmail.com</a></li>
 </ul>
